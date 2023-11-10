@@ -1,0 +1,12 @@
+Hay dos tipos de operadores:
+- Lógicos:
+    >   Es mayor que
+    <   Es menor que
+    ==  Es igual a
+    !=  No es igual a
+
+
+- Relacionales:
+    &&  AND
+    ||  OR
+    !   NOT
